@@ -90,27 +90,6 @@ This is not about *opinions* — it’s about **observable behavior**.
 
 ---
 
-## 📂 Project Structure
-
-react-pattern-playground/
-│
-├── src/
-│ ├── patterns/
-│ │ ├── compound-components/
-│ │ ├── render-props/
-│ │ ├── controlled-vs-uncontrolled/
-│ │ ├── custom-hooks/
-│ │ ├── state-colocation/
-│ │ └── context-patterns/
-│ │
-│ ├── App.jsx
-│ └── main.jsx
-│
-└── README.md
-
-yaml
-Copy code
-
 Each folder contains:
 - `Broken.jsx`
 - `Optimized.jsx`
@@ -122,7 +101,7 @@ Each folder contains:
 ## ▶️ Running the Project Locally
 
 ```bash
-git clone https://github.com/<your-username>/react-pattern-playground.git
+git clone https://github.com/nithsP09/react-pattern-playground.git
 cd react-pattern-playground
 npm install
 npm run dev
